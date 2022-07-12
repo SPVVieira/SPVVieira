@@ -53,7 +53,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/SPVVieira/SPVVieira/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
+![Snake animation](https://github.com/SPVVieira/SPVVieira/blob/output/github-contribution-grid-snake.svg)
